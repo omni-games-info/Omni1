@@ -68,7 +68,6 @@ Omni1 is part of the larger Omni Games suite:
 
 - **OmniSelect** – Build curated, device-optimized ROM collections  
 - **OmniScope** – Filter and customize DAT files for precise management  
-- **OmniBridge** – Organize, verify, and download ROM assets  
 
 ---
 
